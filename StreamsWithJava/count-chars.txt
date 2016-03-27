@@ -1,0 +1,12 @@
+Vowels: 13
+Punctuation: 1
+Consonants: 32
+Vowels: 13
+Punctuation: 2
+Consonants: 32
+Vowels: 13
+Punctuation: 2
+Consonants: 17
+Vowels: 13
+Consonants: 17
+Punctuation: 2
